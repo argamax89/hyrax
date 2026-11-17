@@ -58,7 +58,7 @@ en:
     product_twitter_handle: "@SamveraRepo"
   layouts:
     application:
-      dev_env: "Dassie"
+      dev_env: "Repositorio de Pruebas de Arturo"
   shared:
     footer:
       built_at: "Built at %{time}"
